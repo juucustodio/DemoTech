@@ -11,6 +11,7 @@ namespace DemoTech
 
         public App()
         {
+
             InitializeComponent();
 
             DependencyService.Register<MockDataStore>();
